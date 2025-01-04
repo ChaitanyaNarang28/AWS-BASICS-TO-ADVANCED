@@ -1,4 +1,4 @@
-# AWS-BASIC-TO-ADVANCE
+# AWS-BASIC-TO-ADVANCED
 
 Welcome to the **AWS Basics to Advanced Repository**! This repository is designed to help individuals at any stage of their cloud journey, from beginners to advanced users, by providing organized and insightful notes, guides, and resources related to Amazon Web Services (AWS).
 
